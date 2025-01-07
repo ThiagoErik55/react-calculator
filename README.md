@@ -1,6 +1,6 @@
 # 📱 Calculadora em React.js
 
-Este é um projeto de uma **calculadora funcional** desenvolvida em **React.js** durante o curso de **Desenvolvimento Front-End** na **Universidade Tecnológica Federal do Paraná (UTFPR)**, campus Medianeira.
+Este é um projeto de uma **calculadora** desenvolvida em **React.js** durante o curso de **Desenvolvimento Front-End** na **Universidade Tecnológica Federal do Paraná (UTFPR)**, campus Medianeira.
 
 A calculadora possui funcionalidades básicas como soma, subtração, multiplicação, divisão e porcentagem, com um design simples e responsivo.
 
@@ -48,5 +48,4 @@ calculator/
 │   └── index.css           # Estilos globais
 ├── package.json            # Gerenciamento de dependências
 ├── package-lock.json       # Controle de versões das dependências
-├── .gitignore              # Arquivos ignorados pelo Git
 └── README.md               # Documentação do projeto
